@@ -1,4 +1,4 @@
 # hello-world
-My First Depository
+My First Repository
 
 This is my first edit
